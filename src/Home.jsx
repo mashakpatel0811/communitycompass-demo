@@ -47,8 +47,7 @@ const modules = [
     page: "involved",
     icon: "📣",
     title: "Get Involved",
-    text: "Find meetings and comment deadlines, and draft a question or comment.",
-    status: "Coming soon",
+    text: "See open federal comment deadlines, soonest first, and read each proposal.",
   },
 ];
 

@@ -64,8 +64,8 @@ export const es = {
     "Mira cómo los proyectos de ley, las leyes y los presupuestos se conectan con los programas y servicios cerca de ti.",
   "Explore community needs and service gaps, with clear sources and definitions.":
     "Explora las necesidades de la comunidad y las brechas de servicios, con fuentes y definiciones claras.",
-  "Find meetings and comment deadlines, and draft a question or comment.":
-    "Encuentra reuniones y fechas límite para comentarios, y redacta una pregunta o un comentario.",
+  "See open federal comment deadlines, soonest first, and read each proposal.":
+    "Mira las fechas límite abiertas para comentarios federales, las más próximas primero, y lee cada propuesta.",
   "What do you need?":"¿Qué necesitas?",
   "Coming soon": "Próximamente",
   "Government programs you may qualify for":
@@ -235,8 +235,8 @@ export const es = {
   "See how your neighborhood compares on housing costs, food assistance, health insurance and income, using official Census data.":
     "Mira cómo se compara tu vecindario en costos de vivienda, ayuda con alimentos, seguro médico e ingresos, con datos oficiales del Censo.",
   "Get involved in decisions": "Participa en las decisiones",
-  "Find open comment deadlines, know who represents you, and prepare what you want to say.":
-    "Encuentra fechas límite para comentarios, conoce quién te representa y prepara lo que quieres decir.",
+  "Find open federal comment deadlines and read the proposals before you decide what to say.":
+    "Encuentra las fechas límite abiertas para comentarios federales y lee las propuestas antes de decidir qué decir.",
 
   // ----- Benefits and Programs page (Benefits.jsx) -----
   "Browse federal assistance programs from the official catalog, or answer a few optional questions to see which might be relevant. No account needed.":

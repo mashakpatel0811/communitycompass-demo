@@ -1261,16 +1261,15 @@ html {
   }
 }
 
-/* on a phone the name sits on two lines, "Community" over "Compass", next to the icon */
-@media (max-width: 560px) {
-  .brand {
-    text-align: left;
-    line-height: 1.15;
-  }
+/* the name sits on two lines on every screen and every page:
+   "Community" over "Compass", next to the icon */
+.brand {
+  text-align: left;
+  line-height: 1.15;
+}
 
-  .brand-name {
-    width: min-content;
-  }
+.brand-name {
+  width: min-content;
 }
 
 /* ---------- the white search panel (search bar, location line, round buttons) ---------- */
@@ -1540,4 +1539,23 @@ html {
   margin: 0;
   font-size: 0.8rem;
   text-align: right;
+}
+
+/* ---------- footer stays at the bottom of the screen on short pages ---------- */
+/* #root holds the whole app. As a column that is at least as tall as the window,
+   the main part can grow (flex: 1) and push the footer down to the bottom. */
+#root {
+  min-height: 100vh;
+  min-height: 100dvh; /* phones: the visible height, without the address bar */
+  display: flex;
+  flex-direction: column;
+}
+
+#root > main {
+  flex: 1 0 auto; /* grow to fill the space, never shrink */
+  width: 100%;
+}
+
+#root > .site-footer {
+  flex: none;
 }

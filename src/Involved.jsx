@@ -53,7 +53,7 @@ function Involved() {
         <h1>{t("Get involved in decisions")}</h1>
         <p>
           {t(
-            "Find open comment deadlines, know who represents you, and prepare what you want to say.",
+            "Find open federal comment deadlines and read the proposals before you decide what to say.",
           )}
         </p>
       </div>
