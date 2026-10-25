@@ -69,7 +69,7 @@ function Home({
         <h1>{t("Find help. Understand your options. Have your say.")}</h1>
         <p>
           {t(
-            "One place to find local services, discover government programs you may qualify for (coming soon), and follow decisions that affect your community (coming soon). No account needed.",
+            "One place to find local services, discover government programs you may qualify for, and see open comment deadlines on federal decisions. No account needed.",
           )}
         </p>
 
@@ -132,7 +132,7 @@ function Home({
       <section className="notice info">
         <strong>{t("Today")}</strong>
         {t(
-          "Find local places that can help in Los Angeles. Government programs and policy tools are coming soon.",
+          "Find local places that can help in Los Angeles and the Santa Clarita Valley, browse government programs, and see open federal comment deadlines. Policy and community insight tools are coming soon.",
         )}
       </section>
 

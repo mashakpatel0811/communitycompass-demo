@@ -36,8 +36,8 @@ export const es = {
   // ----- home page -----
   "Find help. Understand your options. Have your say.":
     "Encuentra ayuda. Conoce tus opciones. Haz oír tu voz.",
-  "One place to find local services, discover government programs you may qualify for (coming soon), and follow decisions that affect your community (coming soon). No account needed.":
-    "Un solo lugar para encontrar servicios locales, descubrir programas del gobierno para los que podrías calificar (próximamente) y seguir las decisiones que afectan a tu comunidad (próximamente). No necesitas cuenta.",
+  "One place to find local services, discover government programs you may qualify for, and see open comment deadlines on federal decisions. No account needed.":
+    "Un solo lugar para encontrar servicios locales, descubrir programas del gobierno para los que podrías calificar y ver las fechas límite abiertas para comentar decisiones federales. No necesitas cuenta.",
   "What do you need help with?": "¿Con qué necesitas ayuda?",
   "Rent, food, clinic…": "Renta, comida, clínica…",
   "ZIP code": "Código postal",
@@ -52,8 +52,8 @@ export const es = {
   Clinic: "Clínica",
   "Job training": "Capacitación laboral",
   Today: "Hoy",
-  "Find local places that can help in Los Angeles. Government programs and policy tools are coming soon.":
-    "Encuentra lugares locales que pueden ayudar en Los Ángeles. Los programas del gobierno y las herramientas de políticas llegarán pronto.",
+  "Find local places that can help in Los Angeles and the Santa Clarita Valley, browse government programs, and see open federal comment deadlines. Policy and community insight tools are coming soon.":
+    "Encuentra lugares locales que pueden ayudar en Los Ángeles y el Valle de Santa Clarita, explora programas del gobierno y mira las fechas límite abiertas para comentarios federales. Las herramientas de políticas y de datos de la comunidad llegarán pronto.",
   "Everything in one place": "Todo en un solo lugar",
   "In progress": "En progreso",
   "Search real community places in Los Angeles and the Santa Clarita Valley, and see them on a map.":
